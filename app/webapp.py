@@ -1,7 +1,6 @@
 import streamlit as st
 import sympy as smp
 from matplotlib.pyplot import plot
-import sympy as smp
 from sympy import *
 from sympy.vector import *
 from IPython.display import display, Math
