@@ -3,4 +3,3 @@ numpy
 matplotlib
 sympy
 ipython
-./app/Calculator.py
