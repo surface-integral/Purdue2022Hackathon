@@ -3,4 +3,4 @@ numpy
 matplotlib
 sympy
 ipython
-./Calculator.py
+./app/Calculator.py
